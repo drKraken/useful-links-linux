@@ -42,6 +42,10 @@
   > Great book about UNIX and philosophy of writing programs in "unix way"
 
  *  **[LinuxCBT courses on various topics]()**
+ 
+ *  **[Bach hackers list](http://wiki.bash-hackers.org/scripting/tutoriallist)**
+  
+  > Well explained comparison of all sorts tutorials about shell scripting with rate and review
 
 
 
