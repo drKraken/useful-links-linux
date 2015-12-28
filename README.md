@@ -5,6 +5,8 @@
   
   > Introduce reader to UNIX philosophy, funny stories about Master Fu
 
+ *  **[Basics of UNIX philosophy](http://homepage.cs.uri.edu/~thenry/resources/unix_art/ch01s06.html)**
+
  *  **[opsschool.org](http://www.opsschool.org/en/latest/introduction.html)**
   
   > Great tutorial for SysAdmin and DevOps
@@ -46,10 +48,3 @@
  *  **[Bach hackers list](http://wiki.bash-hackers.org/scripting/tutoriallist)**
   
   > Well explained comparison of all sorts tutorials about shell scripting with rate and review
-
-
-
- 
-
-
-
