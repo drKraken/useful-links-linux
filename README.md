@@ -48,3 +48,7 @@
  *  **[Bach hackers list](http://wiki.bash-hackers.org/scripting/tutoriallist)**
   
   > Well explained comparison of all sorts tutorials about shell scripting with rate and review
+
+ * **[Wikibooks - Linux Guide and others](https://en.wikibooks.org/wiki/Linux_Guide)**
+ 
+  > Wikibooks has good number of great tutorials and books about linux and much more
