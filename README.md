@@ -52,3 +52,5 @@
  * **[Wikibooks - Linux Guide and others](https://en.wikibooks.org/wiki/Linux_Guide)**
  
   > Wikibooks has good number of great tutorials and books about linux and much more
+
+* **[Linux reading list by Eric Raymond](http://www.tldp.org/HOWTO/html_single/Reading-List-HOWTO)**
