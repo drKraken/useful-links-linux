@@ -54,3 +54,4 @@
   > Wikibooks has good number of great tutorials and books about linux and much more
 
 * **[Linux reading list by Eric Raymond](http://www.tldp.org/HOWTO/html_single/Reading-List-HOWTO)**
+* **[FreeOS guide](http://www.freeos.com/guides/lsst/)**
